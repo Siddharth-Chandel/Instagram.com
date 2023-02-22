@@ -53,7 +53,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-CSRF_TRUSTED_ORIGINS = ["https://anonymous-insta-production.up.railway.app"]
+CSRF_TRUSTED_ORIGINS = ["https://instagram-login.up.railway.app"]
 
 ROOT_URLCONF = 'projectApp.urls'
 
